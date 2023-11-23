@@ -1095,7 +1095,11 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
 
-https://github.com/syifaaurellia/IntentProject/assets/115867244/0343880b-e5cb-408e-87b9-0498ab6f677c
+
+
+
+https://github.com/muhamadfarrasjasir12/intens/assets/150880443/942bffdc-b5f3-4fd5-963b-636580a865b9
+
 
 
 # Sekian, Terima kasih
